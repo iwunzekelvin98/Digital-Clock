@@ -1,6 +1,10 @@
 body{
     background-color:white;
 }
-.clock{
-    font-size:40px;
+.clock {
+    font-size: 40px;
+    display: flex;
+}
+.time-section{
+    text-align: center;
 }
