@@ -15,7 +15,7 @@ function updateClock() {
 
     //This is to grab teh ID and set the new date and time to hours, min and seconds. 
     document.getElementById('Hrs').textContent = hours;
-    document.getElementById('Mins').textContet = minutes;
+    document.getElementById('Mins').textContent = minutes;
     document.getElementById('Sec').textContent = seconds;
 }
  
